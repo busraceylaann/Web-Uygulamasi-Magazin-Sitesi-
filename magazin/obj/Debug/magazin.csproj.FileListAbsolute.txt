@@ -1,0 +1,222 @@
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\magazin.dll.config
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\magazin.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\magazin.pdb
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\csc.exe
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\csc.exe.config
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\csc.rsp
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\csi.exe
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\csi.exe.config
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\csi.rsp
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.AppContext.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Console.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.IO.Compression.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Security.Claims.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.ValueTuple.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\vbc.exe
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\vbc.exe.config
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\vbc.rsp
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\VBCSCompiler.exe
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\obj\Debug\magazin.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\obj\Debug\magazin.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\obj\Debug\magazin.dll
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\obj\Debug\magazin.pdb
+C:\Users\BÜŞRA CEYLAN\source\repos\magazin\magazin\obj\Debug\magazin.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\magazin\magazin\bin\magazin.dll.config
+C:\Users\CASPER\Desktop\magazin\magazin\bin\magazin.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\magazin.pdb
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\csc.exe
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\csc.exe.config
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\csc.rsp
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\csi.exe
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\csi.exe.config
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\csi.rsp
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.AppContext.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Console.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.IO.Compression.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Security.Claims.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.ValueTuple.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\vbc.exe
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\vbc.exe.config
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\vbc.rsp
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\VBCSCompiler.exe
+C:\Users\CASPER\Desktop\magazin\magazin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CASPER\Desktop\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CASPER\Desktop\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CASPER\Desktop\magazin\magazin\obj\Debug\magazin.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\magazin\magazin\obj\Debug\magazin.dll
+C:\Users\CASPER\Desktop\magazin\magazin\obj\Debug\magazin.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\magazin.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\magazin.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\magazin.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\csc.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\csc.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\csc.rsp
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\csi.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\csi.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\csi.rsp
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.AppContext.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Console.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.IO.Compression.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Security.Claims.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.ValueTuple.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\vbc.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\vbc.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\vbc.rsp
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\VBCSCompiler.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\obj\Debug\magazin.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\obj\Debug\magazin.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\obj\Debug\magazin.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\obj\Debug\magazin.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\Final Projesi\magazin\magazin\obj\Debug\magazin.csprojAssemblyReference.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\magazin.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\magazin.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\magazin.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\csc.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\csc.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\csc.rsp
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\csi.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\csi.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\csi.rsp
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.AppContext.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Console.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.IO.Compression.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Security.Claims.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.ValueTuple.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\vbc.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\vbc.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\vbc.rsp
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\VBCSCompiler.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\obj\Debug\magazin.csprojAssemblyReference.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\obj\Debug\magazin.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\obj\Debug\magazin.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\obj\Debug\magazin.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\web proje--174410039 hatice büşra ceylan\magazin\magazin\obj\Debug\magazin.pdb

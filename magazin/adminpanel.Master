@@ -1,0 +1,103 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="adminpanel.master.cs" Inherits="magazin.adminpanel" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254" />
+
+    <title>Admin</title>
+    <link rel="stylesheet" href="admin/css/reset.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="admin/css/style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="admin/css/invalid.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="admin/scripts/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="admin/scripts/simpla.jquery.configuration.js"></script>
+    <script type="text/javascript" src="admin/scripts/facebox.js"></script>
+    <script type="text/javascript" src="admin/scripts/jquery.wysiwyg.js"></script>
+    <script type="text/javascript" src="admin/scripts/jquery.datePicker.js"></script>
+    <script type="text/javascript" src="admin/scripts/jquery.date.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+       
+</head>
+<body>
+    <form id="form1" runat="server">
+         <div id="body-wrapper">
+            <!-- Wrapper for the radial gradient background -->
+
+            <div id="sidebar">
+                <div id="sidebar-wrapper">
+                    <!-- Sidebar with logo and menu -->
+
+                    <h1 id="sidebar-title"><a href="#">Yönetim Paneli</a></h1>
+
+                    <!-- Logo (221px wide) -->
+                    <a href="#">  </a>                     
+
+                    <!-- Sidebar Profile links -->
+                    <div id="profile-links">
+                        Merhaba, <a href="#" title="Edit your profile"><%Response.Write(kullanad); %></a><br />
+                        <br />
+                        <a href="anasayfa.aspx" title="View the Site">Site Anasayfası</a> | <a href="uyegiris.aspx" title="Sign Out">Çıkış</a>
+                    </div>
+
+                    <ul id="main-nav">
+                        <!-- Accordion Menu -->
+
+                        <li>
+                            <a href="adminanasayfa.aspx" class="nav-top-item no-submenu">Anasayfa
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="nav-top-item">Yönetim
+                            </a>
+                            <ul>
+                                <li><a href="magazinonay.aspx">Magazin Onayla</a></li>
+                                <li><a href="magazindüzenle.aspx">Magazin Menü</a></li>
+                                <li><a href="galerieditörü.aspx">Galeri Editörü</a></li>
+                                <li><a href="duyuru.aspx">Duyuru Editörü</a></li>
+                                 <li><a href="sitemap.aspx">Dinamik Harita</a></li>
+                                <li>
+                                    <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click" Visible="False">Sayfa Menü</asp:LinkButton></li>
+                                <li>
+                                    <asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click" Visible="False">Kullanıcı Yönet</asp:LinkButton></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <div style="background-color:#800080; color: #000000;">
+
+                                <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" ForeColor="Black" ImageSet="Msdn" NodeIndent="10">
+                                    <HoverNodeStyle BackColor="#808080" BorderColor="#888888" BorderStyle="Solid" Font-Underline="True" />
+                                    <NodeStyle Font-Names="Verdana" Font-Size="8pt" ForeColor="Black" HorizontalPadding="5px" NodeSpacing="1px" VerticalPadding="2px" />
+                                    <ParentNodeStyle Font-Bold="False" />
+                                    <SelectedNodeStyle BackColor="Black" BorderColor="#888888" BorderStyle="Solid" BorderWidth="1px" Font-Underline="False" HorizontalPadding="3px" VerticalPadding="1px" />
+                                </asp:TreeView>
+
+                                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+
+                            </div>
+                        </li>
+
+
+                    </ul>
+
+                </div>
+            </div>
+            <!-- End #sidebar -->
+
+            <div id="main-content">
+
+                <!-- Main Content Section with everything -->
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <!-- End .content-box -->
+        </div>
+        <!-- End #main-content -->
+    </form>
+    
+</body>
+</html>
